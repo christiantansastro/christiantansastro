@@ -43,16 +43,12 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ujjwalsharma01">
+  <a href="https://linkedin.com/in/christiantansastro">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sharma_ujjwal01">
+  <a href="https://instagram.com/chriss.tan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
 </p>
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
