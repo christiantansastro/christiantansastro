@@ -6,7 +6,7 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+    <strong>"Live a life full of humility, gratitude, intellectual curiosity, and never stop learning"</strong>
   </p>
 </blockquote>
 
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 ### 🚀 Expertise
 
-- Programming Languages: C++, C, Python
-- Web Development: Currently learning and exploring
+- Programming Languages: C++, JavaScript, Python
+- AI: Currently learning and exploring
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
 ### 💡 Interests
@@ -29,12 +29,12 @@ I'm deeply interested in:
 
 Apart from coding, I enjoy:
 
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
+- Cooking and experimenting with new recipes.
+- Working out to help keep me disciplined and motivated.
 
 ### 🌱 Future Goals
 
-My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+My ultimate goal is to build an application that positively impacts millions of people. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
 
 ### Let's Connect
 
