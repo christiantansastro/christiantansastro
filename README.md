@@ -10,27 +10,30 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Engineering student with a drive to create real-life, human-centric projects that make a positive impact. I have a keen interest in AI and actively pursuing AI expertise for my future career.
 
 ### 🚀 Expertise
 
 - Programming Languages: C++, JavaScript, Python
-- AI: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+- Frontend Development Tools: HTML, CSS, React.js, MaterialUI, Tailwind CSS, React Native Paper
+- Backend Development Tools: MYSQL, AWS, Node.js, Firebase
+- Mobile App Development Tools: React Native, Android Studio
+- AI Libraries: Pandas, NumPy, Matplotlib, OpenCV, scikit-learn, TensorFlow
+- Soft Skills: Communication, adaptability, flexible, willingness to learn, and creativity
 
 ### 💡 Interests
 
 I'm deeply interested in:
 
 - Building real-life projects that solve meaningful problems.
-- Exploring the fascinating field of AI and experimenting with different datasets and models.
+- Exploring the fascinating field of AI and experimenting with different AI technologies.
 
 ### 📚 Hobbies
 
 Apart from coding, I enjoy:
 
 - Cooking and experimenting with new recipes.
-- Working out to help keep me disciplined and motivated.
+- Working out to help keep me disciplined and productive.
 
 ### 🌱 Future Goals
 
