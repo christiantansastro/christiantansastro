@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Enginee
 
 - Programming Languages: C++, JavaScript, Python
 - Frontend Development Tools: HTML, CSS, React.js, MaterialUI, Tailwind CSS, React Native Paper
-- Backend Development Tools: MYSQL, AWS, Node.js, Firebase
+- Backend Development Tools: MySQL, AWS, Node.js, Firebase
 - Mobile App Development Tools: React Native, Android Studio
-- AI Libraries: Pandas, NumPy, Matplotlib, OpenCV, scikit-learn, TensorFlow
-- Soft Skills: Communication, adaptability, flexible, willingness to learn, and creativity
+- AI Libraries: Pandas, NumPy, Matplotlib, Seaborn, OpenCV, scikit-learn, TensorFlow
+- Soft Skills: Communication, Adaptability, Flexibility, Willingness to learn, and Creativity
 
 ### 💡 Interests
 
