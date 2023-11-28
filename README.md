@@ -34,6 +34,7 @@ Apart from coding, I enjoy:
 
 - Cooking and experimenting with new recipes.
 - Working out to help keep me disciplined and productive.
+- Playing online MOBA and FPS games
 
 ### 🌱 Future Goals
 
