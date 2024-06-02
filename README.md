@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Enginee
 
 - Programming Languages: C++, JavaScript, Python, TypeScript
 - Frontend Development Tools: HTML, CSS, React.js, Grafana
-- Backend Development Tools: Node.js, Redis, Docker
+- Backend Development Tools: Node.js, Redis, Docker, Mosquitto
 - Database: MySQL, AWS, Firebase, PostgreSQL, InfluxDB 
 - Mobile App Development Tools: React Native, Android Studio
 - AI Libraries: Pandas, NumPy, Matplotlib, Seaborn, OpenCV, scikit-learn, TensorFlow
