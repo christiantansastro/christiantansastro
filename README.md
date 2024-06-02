@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Enginee
 
 ### 🚀 Expertise
 
-- Programming Languages: C++, JavaScript, Python
-- Frontend Development Tools: HTML, CSS, React.js, MaterialUI, Tailwind CSS, React Native Paper
-- Backend Development Tools: MySQL, AWS, Node.js, Firebase
+- Programming Languages: C++, JavaScript, Python, TypeScript
+- Frontend Development Tools: HTML, CSS, React.js, Grafana
+- Backend Development Tools: Node.js, Redis, Docker
+- Database: MySQL, AWS, Firebase, PostgreSQL, InfluxDB 
 - Mobile App Development Tools: React Native, Android Studio
 - AI Libraries: Pandas, NumPy, Matplotlib, Seaborn, OpenCV, scikit-learn, TensorFlow
 - Soft Skills: Communication, Adaptability, Flexibility, Willingness to learn, and Creativity
@@ -33,8 +34,8 @@ I'm deeply interested in:
 Apart from coding, I enjoy:
 
 - Cooking and experimenting with new recipes.
-- Working out to help keep me disciplined and productive.
-- Playing online MOBA and FPS games
+- Working out which helps keep me disciplined and productive.
+- Playing online MOBA and FPS games.
 
 ### 🌱 Future Goals
 
