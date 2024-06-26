@@ -33,9 +33,9 @@ I'm deeply interested in:
 
 Apart from coding, I enjoy:
 
-- Cooking and experimenting with new recipes.
-- Working out which helps keep me disciplined and productive.
-- Playing online MOBA and FPS games.
+- Trying out new recipes in the kitchen.
+- Staying disciplined and productive with regular workouts.
+- Being competitive through MOBA and FPS games.
 
 ### 🌱 Future Goals
 
