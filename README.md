@@ -10,7 +10,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm an enthusiastic Software Engineer Graduate with a drive to create real-life, human-centric projects that make a positive impact. I am keenly interested in AI and actively pursuing AI expertise for my future career.
+Welcome to my GitHub profile! I'm an enthusiastic Software Engineering Graduate with a drive to create real-life, human-centric projects that make a positive impact. I am keenly interested in AI and actively pursuing AI expertise for my future career.
 
 ### 🚀 Expertise
 
