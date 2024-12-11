@@ -4,12 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=christiantansastro&color=blue" alt="Profile Views" />
 </p>
 
-<blockquote style="font-size: 24px;">
-  <p align="center">
-    <strong>"Live a life full of humility, gratitude, intellectual curiosity, and never stop learning"</strong>
-  </p>
-</blockquote>
-
 Welcome to my GitHub profile! I'm an enthusiastic Software Engineering Graduate with a drive to create real-life, human-centric projects that make a positive impact. I am keenly interested in AI and actively pursuing AI expertise for my future career.
 
 ### 🚀 Expertise
