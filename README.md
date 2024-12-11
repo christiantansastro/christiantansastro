@@ -10,7 +10,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Engineering student with a drive to create real-life, human-centric projects that make a positive impact. I have a keen interest in AI and actively pursuing AI expertise for my future career.
+Welcome to my GitHub profile! I'm an enthusiastic Software Engineer Graduate with a drive to create real-life, human-centric projects that make a positive impact. I am keenly interested in AI and actively pursuing AI expertise for my future career.
 
 ### 🚀 Expertise
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Enginee
 - Backend Development Tools: Node.js, Redis, Docker, Mosquitto
 - Database: MySQL, AWS, Firebase, PostgreSQL, InfluxDB 
 - Mobile App Development Tools: React Native, Android Studio
-- AI Libraries: Pandas, NumPy, Matplotlib, Seaborn, OpenCV, scikit-learn, TensorFlow
+- AI Libraries: Pandas, TensorFlow, NumPy, Matplotlib, Seaborn, OpenCV, scikit-learn
 - Soft Skills: Communication, Adaptability, Flexibility, Willingness to learn, and Creativity
 
 ### 💡 Interests
